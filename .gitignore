@@ -49,3 +49,6 @@ package.json
 /man/
 /share/
 /src/
+
+# virtual env
+odoo_python_3_10
